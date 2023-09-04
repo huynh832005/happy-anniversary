@@ -1,7 +1,7 @@
 
 var to = 'LOVE!';
 var gift_url = 'https://www.facebook.com/profile.php?id=100009207209234';
-var gift_image_url = 'bong.jpeg';
+var gift_image_url = 'nguyet.jpg';
 
 
 var nametag = document.getElementById("nametag");
